@@ -4,25 +4,16 @@
 
 # Estrutura do Projeto
  
-     Home: Página principal do portfólio, onde apresento uma visão geral sobre mim e meus projetos.
+    Home: Página principal do portfólio, onde apresento uma visão geral sobre mim e meus projetos.
   
-     Extra: Página adicional que pode conter informações complementares, como hobbies, experiências, ou outra temática que julgar relevante.
+    Extra: Página adicional que pode conter informações complementares, como hobbies, experiências, ou outra temática que julgar relevante.
   
-     Formulário: Página com um formulário de contato para que visitantes possam enviar mensagens ou entrar em contato.
+    Formulário: Página com um formulário de contato para que visitantes possam enviar mensagens ou entrar em contato.
     
-   # Tecnologias Utilizadas
-        HTML: Estruturação do conteúdo das páginas.
-        CSS: Estilização das páginas, incluindo layout, cores, fontes e responsividade.
+# Tecnologias Utilizadas
+    HTML: Estruturação do conteúdo das páginas.
+    CSS: Estilização das páginas, incluindo layout, cores, fontes e responsividade.
     
-   # Como Acessar
-        Clone este repositório:
-            bash
-        Copiar código
-            git clone https://github.com/seu-usuario/seu-repositorio.git
-        Navegue até o diretório do projeto:
-            bash
-        Copiar código
-            cd meu-portifolio
 
 
 Abra o arquivo index.html em seu navegador preferido.
