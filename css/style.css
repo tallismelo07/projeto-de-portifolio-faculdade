@@ -39,3 +39,58 @@ header {
     justify-content: space-between;
     transition: all .6s ease;
 }
+
+.logo img{
+    max-width: 80px;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.menulista a {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 300;
+    color: var(--other-color);
+    transition: all .6s ease;
+    margin:  0 30px;
+}
+
+.menulista a:hover{
+    color: var(--text-color);
+}
+
+.menulista a.active{
+    color: var(--text-color);
+}
+
+.menu-right{
+    display:  flex;
+    align-items: center;
+}
+
+.menu-btn{
+    display: inline-block;
+    padding: 15px 25px;
+    background: linear-gradient(135deg, #e1bac5 0%, var(--main-color) 100%);
+    color: var(--bg-color);
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 13px;
+}
+
+.menu-btn:hover{
+    background: linear-gradient(135deg, var(--main-color) 0%, #e1bac5 100%);
+}
+
+#menu-icon{
+    z-index: 10001;
+    font-size: 40px;
+    margin-left: 25px;
+    cursor: pointer;
+    display: none;
+}
+
+section {
+    padding: 110px 14% 90px;
+}
